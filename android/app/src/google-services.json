@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331035443289",
+    "project_id": "stimulertask",
+    "storage_bucket": "stimulertask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331035443289:android:3077639e086125ce997148",
+        "android_client_info": {
+          "package_name": "com.example.stimuler_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331035443289-og4qnoqqjradbkahu1984pshe0dg387b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpIM9g-8GtkgW_ZuoRxZtirYHupgtn2fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331035443289-og4qnoqqjradbkahu1984pshe0dg387b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
